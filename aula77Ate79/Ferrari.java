@@ -1,0 +1,6 @@
+//CURSO DO CANAL DEVDOJO MARATONA JAVA - ORIENTAÇÃO OBJETOS - AULA79 MODIFICADOR FINAL PT03 - CLASSES E METODOS
+package aula77Ate79;
+
+public class Ferrari extends Carro{
+    
+}
